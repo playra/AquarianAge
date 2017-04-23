@@ -1,0 +1,111 @@
+<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<style type="text/css">
+  /* Главный заголовок */
+  div.healcode .healcode-title-text {
+    color: #4BD1A0 !important;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  div.healcode table.healcodeschedule.filtered_collection.mindbody_classic {
+    width: 100%;
+  }
+  /* Шабка таблицы */
+  /*div.healcode th.schedule_header  {
+    padding: 15px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    background-color: transparent !important;
+    color: #4BD1A0;
+    font-size: 15px;
+    font-family: 'Trebuchet MS';
+    line-height: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 2;
+    text-align: center;
+  }*/
+
+  div.healcode th.hc_date {
+    padding: 15px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    color: #4BD1A0;
+  }
+
+  div.healcode th.mbo_class {
+    padding: 15px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    color: #4BD1A0;
+  }
+
+  div.healcode th.trainer {
+    padding: 15px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    color: #4BD1A0;
+  }
+
+  div.healcode th.resource {
+    padding: 15px;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+  }
+  div.healcode td.hc_date, div.healcode td.mbo_class, div.healcode td.trainer, div.healcode td.resource {
+    padding: 15px;
+    border-bottom: 1px solid #aaa;
+    padding: 15px;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    color: #fff;
+  }
+
+  div.healcode tr.even.dropin.hc_class.filterable, div.healcode tr.even.enrollment.hc_class.filterable.healcode-underway, div.healcode tr.odd.dropin.hc_class.filterable {
+    color: #fff;
+  }
+
+  div.healcode tr.odd.dropin.hc_class.filterable.cancelled {
+    color: #fff;
+  }
+
+  /* | */
+  div.healcode .healcode-previous {
+    visibility: hidden;
+  }
+  /* | */
+  div.healcode .healcode-today {
+    visibility: hidden;
+  }
+  /*CALENDAR*/
+  div.healcode .date_links {
+    visibility: hidden;
+  }
+  div.healcode .healcode-calendar {
+    visibility: hidden;
+  }
+  div.healcode .healcode-date-links-area .week_links {
+    visibility: hidden;
+  }
+  /*Footer*/
+  div.healcode .hc_footer {
+    visibility: hidden;
+  }
+</style>
+
+
+<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="473784925a0" data-widget-version="0.1"></healcode-widget>
