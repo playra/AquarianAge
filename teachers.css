@@ -2,7 +2,7 @@
 <style type="text/css">
   /*Name*/
   div.healcode .trainer_list h1.trainer_name {
-    color: #4BD1A0 !important;
+    color: #00ffc5 !important;
     font-family: 'Avenir next', 'Avenir light';
     text-transform: uppercase;
     text-decoration: none;
@@ -33,7 +33,7 @@
   }
   /*Преподаватель*/
   div.healcode a {
-    color: #4BD1A0;
+    color: #00ffc5;
     font-size: 15px;
     font-family: 'Avenir next';
     text-transform: uppercase;
@@ -56,7 +56,7 @@
   }
   /*Название класса*/
   div.healcode .classname a {
-    color: #4BD1A0;
+    color: #00ffc5;
     font-weight: normal;
     font-size: 15px;
   }

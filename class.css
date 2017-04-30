@@ -12,7 +12,7 @@
   }
   /*Преподаватель*/
   div.healcode a {
-    color: #4BD1A0 !important;
+    color: #00ffc5 !important;
     font-size: 15px;
     font-family: 'Avenir next';
     text-transform: uppercase;
@@ -35,7 +35,7 @@
   }
   /*Название класса*/
   div.healcode .classname a {
-    color: #4BD1A0 !important;
+    color: #00ffc5 !important;
     font-weight: normal;
     font-size: 15px;
   }
