@@ -1,11 +1,11 @@
 [
 	{
 		"id": 1,
-    "name": "Разовое занятие",
-    "limit": "0",
-    "amount": "1",
-    "price": "550",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/550.jpg?raw=true"
+    "name": "Универсальный",
+    "limit": "1",
+    "amount": "4",
+    "price": "2600",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/у%202600.jpg?raw=true"
 	},
 	{
 		"id": 2,
@@ -13,6 +13,6 @@
     "limit": "0",
     "amount": "1",
     "price": "700",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/700.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/у%202600.jpg?raw=true"
 	}
 ]
