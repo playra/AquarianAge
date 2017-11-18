@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+    "name": "Разовое занятие",
+    "limit": "0",
+    "amount": "1",
+    "price": "550",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/550.jpg?raw=true"
+	},
+	{
+		"id": 2,
+    "name": "Разовое занятие",
+    "limit": "0",
+    "amount": "1",
+    "price": "700",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/700.jpg?raw=true"
+	}
+]
