@@ -1,18 +1,50 @@
 [
 	{
 		"id": 1,
-    "name": "Универсальный",
-    "limit": "1",
-    "amount": "4",
-    "price": "2600",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/у%202600.jpg?raw=true"
+		"name": "Универсальный",
+		"limit": "1",
+		"amount": "4",
+		"price": "2600",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u2600.jpg?raw=true"
 	},
 	{
 		"id": 2,
-    "name": "Универсальный",
-    "limit": "1",
-    "amount": "8",
-    "price": "5000",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/у%202600.jpg?raw=true"
+		"name": "Универсальный",
+		"limit": "1",
+		"amount": "8",
+		"price": "5000",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u5000.jpg?raw=true"
+	},
+	{
+		"id": 3,
+		"name": "Универсальный",
+		"limit": "3",
+		"amount": "12",
+		"price": "7440",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u7440.jpg?raw=true"
+	},
+	{
+		"id": 4,
+		"name": "Универсальный",
+		"limit": "3",
+		"amount": "24",
+		"price": "14040",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u14040.jpg?raw=true"
+	},
+	{
+		"id": 5,
+		"name": "Универсальный",
+		"limit": "6",
+		"amount": "36",
+		"price": "20880",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u20880.jpg?raw=true"
+	},
+	{
+		"id": 6,
+		"name": "Универсальный",
+		"limit": "6",
+		"amount": "48",
+		"price": "25680",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u25680.jpg?raw=true"
 	}
 ]
