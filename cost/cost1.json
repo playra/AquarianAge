@@ -1,12 +1,50 @@
 [
 	{
 		"id": 1,
-    "price": "550",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/550.jpg?raw=true"
+    "name": "Будни",
+    "limit": "1",
+    "amount": "4",
+    "price": "2000",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true"
 	},
 	{
 		"id": 2,
-    "price": "700",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/700.jpg?raw=true"
+    "name": "Будни",
+    "limit": "1",
+    "amount": "8",
+    "price": "3800",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/3800.jpg?raw=true"
+	},
+	{
+		"id": 3,
+    "name": "Будни",
+    "limit": "3",
+    "amount": "12",
+    "price": "5340",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/5340.jpg?raw=true"
+	},
+	{
+		"id": 4,
+    "name": "Будни",
+    "limit": "3",
+    "amount": "24",
+    "price": "9840",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/9840.jpg?raw=true"
+	},
+	{
+		"id": 5,
+    "name": "Будни",
+    "limit": "6",
+    "amount": "36",
+    "price": "13320",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/13320.jpg?raw=true"
+	},
+	{
+		"id": 6,
+    "name": "Будни",
+    "limit": "6",
+    "amount": "48",
+    "price": "15600",
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/15600.jpg?raw=true"
 	}
 ]
