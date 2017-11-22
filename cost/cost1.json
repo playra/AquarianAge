@@ -5,7 +5,8 @@
     "limit": "1",
     "amount": "4",
     "price": "2000",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
+    "info": "Дневной Абонемент (будни с 7:00 - 18:00)"
 	},
 	{
 		"id": 2,
@@ -13,7 +14,8 @@
     "limit": "1",
     "amount": "8",
     "price": "3800",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/3800.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/3800.jpg?raw=true",
+    "info": "Дневной Абонемент \n(будни с 7:00 - 18:00)"
 	},
 	{
 		"id": 3,
@@ -21,7 +23,8 @@
     "limit": "3",
     "amount": "12",
     "price": "5340",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/5340.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/5340.jpg?raw=true",
+    "info": "Дневной Абонемент \n(будни с 7:00- 18:00) \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
 		"id": 4,
@@ -29,7 +32,8 @@
     "limit": "3",
     "amount": "24",
     "price": "9840",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/9840.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/9840.jpg?raw=true",
+    "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
 		"id": 5,
@@ -37,7 +41,8 @@
     "limit": "6",
     "amount": "36",
     "price": "13320",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/13320.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/13320.jpg?raw=true",
+    "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*2 гостевых посещения в подарок"
 	},
 	{
 		"id": 6,
@@ -45,6 +50,7 @@
     "limit": "6",
     "amount": "48",
     "price": "15600",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/15600.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/15600.jpg?raw=true",
+    "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*2 гостевых посещения в подарок"
 	}
 ]
