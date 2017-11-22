@@ -5,7 +5,9 @@
     "limit": "0",
     "amount": "1",
     "price": "550",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/550.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/550.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/550.jpg?raw=true",
+    "info": "РАЗОВОЕ ЗАНЯТИЕ \nбудни до 18:00"
 	},
 	{
 		"id": 2,
@@ -13,6 +15,8 @@
     "limit": "0",
     "amount": "1",
     "price": "700",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/700.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/700.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/700.jpg?raw=true",
+    "info": "РАЗОВОЕ ЗАНЯТИЕ \nбудни с 18:00 и выходные дни"
 	}
 ]

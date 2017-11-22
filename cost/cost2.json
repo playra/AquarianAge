@@ -5,7 +5,9 @@
 		"limit": "1",
 		"amount": "4",
 		"price": "2600",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u2600.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u2600.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u2600.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \n любой день \nлюбое время"
 	},
 	{
 		"id": 2,
@@ -13,7 +15,9 @@
 		"limit": "1",
 		"amount": "8",
 		"price": "5000",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u5000.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u5000.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u5000.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \n любой день \nлюбое время"
 	},
 	{
 		"id": 3,
@@ -21,7 +25,9 @@
 		"limit": "3",
 		"amount": "12",
 		"price": "7440",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u7440.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u7440.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u7440.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \nлюбой день \nлюбое время \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
 		"id": 4,
@@ -29,7 +35,9 @@
 		"limit": "3",
 		"amount": "24",
 		"price": "14040",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u14040.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u14040.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u14040.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \nлюбой день \nлюбое время \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
 		"id": 5,
@@ -37,7 +45,9 @@
 		"limit": "6",
 		"amount": "36",
 		"price": "20880",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u20880.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u20880.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u20880.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \nлюбой день \nлюбое время \n*возможность заморозить абонемент на 1 неделю \n*2 гостевое посещение в подарок"
 	},
 	{
 		"id": 6,
@@ -45,6 +55,8 @@
 		"limit": "6",
 		"amount": "48",
 		"price": "25680",
-		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u25680.jpg?raw=true"
+		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/u25680.jpg?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/imgSmall/u25680.jpg?raw=true",
+    "info": "УНИВЕРСАЛЬНЫЙ АБОНЕМЕНТ \nлюбой день \nлюбое время \n*возможность заморозить абонемент на 1 неделю \n*2 гостевое посещение в подарок"
 	}
 ]
