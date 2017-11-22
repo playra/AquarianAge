@@ -6,6 +6,7 @@
     "amount": "4",
     "price": "2000",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент (будни с 7:00 - 18:00)"
 	},
 	{
@@ -15,6 +16,7 @@
     "amount": "8",
     "price": "3800",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/3800.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент \n(будни с 7:00 - 18:00)"
 	},
 	{
@@ -24,6 +26,7 @@
     "amount": "12",
     "price": "5340",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/5340.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент \n(будни с 7:00- 18:00) \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
@@ -33,6 +36,7 @@
     "amount": "24",
     "price": "9840",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/9840.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*1 гостевое посещение в подарок"
 	},
 	{
@@ -42,6 +46,7 @@
     "amount": "36",
     "price": "13320",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/13320.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*2 гостевых посещения в подарок"
 	},
 	{
@@ -51,6 +56,7 @@
     "amount": "48",
     "price": "15600",
 		"img": "https://github.com/playra/AquarianAge/blob/master/cost/image/15600.jpg?raw=true",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/cost/image/2000.jpg?raw=true",
     "info": "Дневной Абонемент \n(будни с 7:00-18:00) \n*возможность заморозить абонемент на 1 неделю \n*2 гостевых посещения в подарок"
 	}
 ]
