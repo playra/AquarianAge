@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"name": "Хатха йога",
-		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/menu/img/hatha.png?raw=true",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/levchenko.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -375,7 +375,7 @@
 		]
 	},
 	{
-		"id": 10,
+		"id": 17,
 		"name": "Воздушная йога",
 		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/luzanova.jpeg?raw=true",
 		"relations": [
@@ -390,7 +390,7 @@
 		]
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"name": "Формула молодости",
     "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/marshak.png?raw=true",
 		"relations": [
@@ -405,7 +405,7 @@
 		]
 	},
 	{
-		"id": 18,
+		"id": 19,
 		"name": "Лечебный массаж",
     "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/sivickiy.png?raw=true",
 		"relations": [
@@ -428,7 +428,7 @@
 		]
 	},
 	{
-		"id": 19,
+		"id": 20,
 		"name": "Лифтинг",
     "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/ustugova.png?raw=true",
 		"relations": [
