@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"name": "Хатха йога",
-		"imgSmall": "",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/menu/img/hatha.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -47,21 +47,13 @@
 			{
 				"id": 5,
 				"name": "Анастасия Нечипоренко",
-				"profession": "Хатха йога",
+				"profession": "Хатха йога, йога для начинающих",
 				"img": "https://github.com/playra/AquarianAge/blob/master/teachers/necheporenko.png?raw=true",
 				"imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/necheporenko.png?raw=true",
 				"info": "Опыт практики йоги 9 лет и опыт преподавательской деятельности 6 лет.\n\n  Образование: Государственный университет землеустройства. Факультет архитектуры.\n\n  Образование в йоге: 2010 - обучение в РГУФК. Курс для преподавателей йоги. 2012 - Сертификационный курс UNIVERSAL YOGA. 2012-2014 - различные курсы и семинары, как российских так и зарубежных учителей.\n\n  История знакомства с йогой: В школьном возрасте, у меня были сложности с позвоночником и коленями. По мнению врачей, мне была противопоказана любая физическая нагрузка, и я привыкла жить с этой мыслью. Но однажды я, волею судьбы, попала на лекцию по йоге. Тогда мои взгляды по многим пунктам сильно изменились. Потом мои отношения с Йогой стали развиваться очень стремительно. В начале, меня больше интересовали теоретические аспекты практики. Но, постепенно, я осознала и степень важности поддержания физического тела на должном уровне. Я всегда стараюсь искать информацию только в первоисточниках. Параллельно с практикой йоги, изучаю такие дисциплины как: аюрведа, васту и джйотиш, синтезируя эти знания в единую стройную систему.\n\n  Что для меня йога?... Всё. Или вернее будет сказать, что для меня всё – это Йога, моя Йога, каждый день, каждую минуту. Когда Йога попала в мою жизнь, она планомерно и достаточно быстро заняла в ней основное место, что-то сильно видоизменив, а что-то и вовсе вычеркнув.\n\n \"Йога несет надежду отчаявшимся, радость впавшим в уныние, силу ослабевшим и знание невежественным.\" За последние годы у меня была отличная возможность проверить эти слова Свами Шивананды на собственном опыте. Личная практика и осознание того, что есть люди, с которыми я могу поделиться своими знаниями и опытом на пути Йоги, люди, которым это нужно - вот то, что вдохновляет меня каждый день.\n\n  Дополнительные практики: Васту. Аюрведа, Джйотиш. Изучаю санскрит и тамильский язык. \n\n  Увлечения: Путешествия, фотография, живопись, дизайн, архитектура, языки \n\n \"Продолжаю учиться, путешествую, провожу групповые и индивидуальные занятия и обожаю то, чем занимаюсь!\"Регулярные классы по средам в 20:00, пятницам в 20:30 и воскресеньям в 18:00."
 			},
 			{
 				"id": 6,
-				"name": "Сергей Граблевский",
-				"profession": "Крия йога",
-				"img": "https://github.com/playra/AquarianAge/blob/master/teachers/grablevskiy.png?raw=true",
-				"imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/grablevskiy.png?raw=true",
-				"info": "Занимается Йогой и живет в Индии 10 лет, 6 лет практикует Крия Йогу Гуруджи Шайлендра Шарма.\n\n Считает себя приверженцем древних традиционных методов, и с опаской относится к новым модным течениям и школам. На занятиях делится своим богатейшим опытом, что может помочь изменить жизнь к лучшему, открыть дорогу к духовному развитию и самопознанию.\n\n Занятия включают такие элементы как динамические и статические последовательности асана, дыхательные техники, мантра пранаяма, йога нидра, бандхи, мудры, крии, шаткармы."
-			},
-			{
-				"id": 7,
 				"name": "Юлия Сергеева",
 				"profession": "Хатха йога",
 				"img": "https://github.com/playra/AquarianAge/blob/master/teachers/sergeeva.png?raw=true",
@@ -73,7 +65,7 @@
 	{
 		"id": 1,
 		"name": "Кундалини йога",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/merkulov.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -128,7 +120,7 @@
 	{
 		"id": 2,
 		"name": "Аштанга йога",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/volodina.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -143,7 +135,7 @@
 	{
 		"id": 3,
 		"name": "Сурья йога",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/vatagin.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -158,7 +150,7 @@
 	{
 		"id": 4,
 		"name": "Космоэнергетика",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/fomin.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -173,7 +165,7 @@
 	{
 		"id": 5,
 		"name": "Крия йога",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/grablevskiy.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -188,12 +180,12 @@
 	{
 		"id": 6,
 		"name": "Йога для начинающих",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/sergeeva.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
 				"name": "Юлия Сергеева",
-				"profession": "Хатха йога",
+				"profession": "Хатха йога, йога для начинающих",
 				"img": "https://github.com/playra/AquarianAge/blob/master/teachers/sergeeva.png?raw=true",
 				"imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/sergeeva.png?raw=true",
 				"info": "Практикует хатха-йогу с 2001 года, преподает с 2003 года.\n\n Обучалась центре йоги Айенгара (Москва) у преподавателей: Т. Толочкова, Л. Штепо, В. Литвинова, И. Машьянова, а также на курсах преподавателей в Аштанга йога-центре (Москва): М. Барановой, И. Журавлевой, С. Агапкина, М. Константинова, Л. Ланина.\n\n Проходила обучения на тренингах-интенсивах в России и зарубежом.\n\n Посещала семинары доктора Мадавана (Тамил Наду), Леонида Гарценштейна (Кишинев), Андрея Лаппы (Киев), Габриэлы Джубиляро (Италия), Петри Райсанян (Швеция), Барон Баптист (США).\n\n Ведет уроки йоги по проблемам спины, классы для беременных, женкие и детские классы и занятия интенсивной нагрузки.\n\n Имеет 2 разряд по горному туризму и 3 разряд по альпинизму. Увлекается сноубордом и кайтсерфингом.\n\n \"На классах хатха-йоги для начинающих вы пошагово освоите базу в йоге. От простого к сложному. Микс из правильного построения асан и динамических связок и контроля дыхания позволит вам раскрыть и почувствовать тело. Научиться самостоятельно контролировать свое тело в асанах и получить новые ощущения в жизни.\n\n Результаты не приходят быстро, но достигнутые раз, они останутся надолго!\""
@@ -203,7 +195,7 @@
 	{
 		"id": 7,
 		"name": "Авторские методики",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/aliev.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -234,7 +226,7 @@
 	{
 		"id": 8,
 		"name": "Индивидуальные cеансы",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/pak.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -249,7 +241,7 @@
 	{
 		"id": 9,
 		"name": "Каула йога",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/korneeva.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -264,7 +256,7 @@
 	{
 		"id": 10,
 		"name": "Ом чантинг",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/golubeva.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -279,7 +271,7 @@
 	{
 		"id": 11,
 		"name": "Йогатерапия",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/prokunin.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -332,7 +324,7 @@
 	{
 		"id": 14,
 		"name": "Йога для беременных",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/volodina.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -347,7 +339,7 @@
 	{
 		"id": 15,
 		"name": "YOGA23",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/tulaeeva.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -362,7 +354,7 @@
 	{
 		"id": 16,
 		"name": " Йога Нидра и медитации",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/necheporenko.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -385,7 +377,7 @@
 	{
 		"id": 10,
 		"name": "Воздушная йога",
-		"imgSmall": "",
+		"imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/luzanova.jpeg?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -400,7 +392,7 @@
 	{
 		"id": 17,
 		"name": "Формула молодости",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/marshak.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -415,7 +407,7 @@
 	{
 		"id": 18,
 		"name": "Лечебный массаж",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/sivickiy.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
@@ -438,7 +430,7 @@
 	{
 		"id": 19,
 		"name": "Лифтинг",
-		"imgSmall": "",
+    "imgSmall": "https://github.com/playra/AquarianAge/blob/master/teachers/imgSmall/ustugova.png?raw=true",
 		"relations": [
 			{
 				"id": 0,
